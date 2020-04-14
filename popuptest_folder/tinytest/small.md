@@ -1,0 +1,1 @@
+Als Technologieexperte verfügen Sie wahrscheinlich über Expertenwissen in einem bestimmten Bereich. Vielleichtsind Sie ein Experte für Speicheradministratoren oder Virtualisierung oder konzentrieren sich vielleicht auf die neuesten Sicherheitsmethoden. Wenn Sie ein Student sind, werden Sie möglicherweise immer noch erforschen, was Sie am meisten interessiert.
