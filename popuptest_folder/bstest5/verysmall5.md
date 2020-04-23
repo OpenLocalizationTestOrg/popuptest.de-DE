@@ -1,3 +1,3 @@
-# <a name="specifiedpickupdirectory-element-network-settings"></a>\<SpecifiedPickupDirectory>-Element (Netzwerkeinstellungen)
+# <a name="specifiedpickupdirectory-element-network-settings"></a>\<specifiedPickupDirectory>Element (Netzwerkeinstellungen)
   
-[**\<Konfigurations>**](../configuration-element.md)\
+[**\<configuration>**](../configuration-element.md)\
