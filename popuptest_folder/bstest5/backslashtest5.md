@@ -8,21 +8,22 @@ helpviewer_keywords:
 - specifiedPickupDirectory element
 - <specifiedPickupDirectory> element
 ms.assetid: 0121f49d-bff2-4bc6-af06-f1628dcd61f1
-ms.openlocfilehash: 0d9c68f887edd33d91c894a3caa47e37132dcd5c
-ms.sourcegitcommit: b34d601500eef39f5414bbd2d31794f71d1126ef
-ms.translationtype: MT
+ms.openlocfilehash: 25b06619a91e43d54b92c1e2cc50b433ccf864bc
+ms.sourcegitcommit: e25a89331cdb027dcfc845e774571df86e62dcb2
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "6613564"
+ms.lasthandoff: 06/28/2020
+ms.locfileid: "6614895"
 ---
-# <a name="specifiedpickupdirectory-element-network-settings"></a>\<SpecifiedPickupDirectory>-Element (Netzwerkeinstellungen)
+# <a name="update-test-on-june-23"></a>Update Test am 23. Juni
+  
+# <a name="specifiedpickupdirectory-element-network-settings"></a>\<specifiedPickupDirectory>Element (Netzwerkeinstellungen)
 Konfiguriert das lokale Verzeichnis für einen SMTP-Server (Simple Mail Transport Protocol).  
   
-[**\<Konfigurations>**](../configuration-element.md)\
-&nbsp;&nbsp;[**\<System.net>**](system-net-element-network-settings.md)\
+[**\<configuration>**](../configuration-element.md)\
+&nbsp;&nbsp;[**\<system.net>**](system-net-element-network-settings.md)\
 &nbsp;&nbsp;&nbsp;&nbsp;[**\<mailSettings>**](mailsettings-element-network-settings.md)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**\<SMTP->**](smtp-element-network-settings.md)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\<SpecifiedPickupDirectory>**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**\<smtp>**](smtp-element-network-settings.md)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\<specifiedPickupDirectory>**  
   
 ## <a name="syntax"></a>Syntax  
   
@@ -48,7 +49,7 @@ Konfiguriert das lokale Verzeichnis für einen SMTP-Server (Simple Mail Transpor
   
 |Element|Beschreibung|  
 |-------------|-----------------|  
-|[\<SMTP->-Element (Netzwerkeinstellungen)](smtp-element-network-settings.md)|Konfiguriert die SMTP-e-Mail-Sendeoptionen (Simple Mail Transport Protocol).|  
+|[\<smtp>Element (Netzwerkeinstellungen)](smtp-element-network-settings.md)|Konfiguriert die SMTP-e-Mail-Sendeoptionen (Simple Mail Transport Protocol).|  
   
 ## <a name="remarks"></a>Hinweise  
  Das `specifiedPickupDirectory` Attribut legt das Verzeichnis fest, in dem Anwendungen e-Mail-Nachrichten speichern, die vom SMTP-Server verarbeitet werden.  
